@@ -1,4 +1,4 @@
-# Informe - Tarea 01
+# Informe - Tarea 02
 
 En esta carpeta se encuentra el informe correspondiente a la Tarea 01 del curso Base de Datos I.
 
